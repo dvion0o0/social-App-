@@ -32,6 +32,7 @@ const Container = styled.div`
   justify-content: center;
   align-items: center;
   position: relative;
+  box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.2);
 `;
 
 const Wrapper = styled.div`
